@@ -22,7 +22,7 @@
 ---
 
 ## Installation
-1. **Download the Mod**: [Link to the mod download].
+1. **Download the Mod**: [Link to the mod download](https://github.com/nerchii/HumanMeat).
 2. **Install Forge**: Ensure you have Minecraft Forge installed.
 3. **Place the Mod**: Move the mod file into the `mods` folder in your Minecraft directory.
 4. **Launch Minecraft**: Start Minecraft with the Forge profile.
