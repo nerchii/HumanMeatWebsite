@@ -19,7 +19,13 @@
   - Craft a mask from human skin.
   - Makes you undetectable by zombies.
 
----
+
+
+
+![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)
+
+
+
 
 ## Installation
 1. **Download the Mod**: [Link to the mod download](https://github.com/nerchii/HumanMeat).
@@ -40,8 +46,8 @@
 
 ## Compatibility
 - **Minecraft Version**: Works with version 1.20.4
-- **Forge Version**: Compatible with Forge version
-- 
+- Made with Fabric 
+
 
 ---
 
