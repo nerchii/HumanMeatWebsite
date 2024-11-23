@@ -1,4 +1,4 @@
-# Human Meat
+# <img src="IMG_0092.PNG" alt="eye" width="15"/> Human Meat  <img src="IMG_0092.PNG" alt="eye" width="15"/>
 
 ## Overview
 **Human Meat** is a mod for Minecraft that adds new features, items, and gameplay mechanics to enhance the player's experience. Players who die drop items like organs and teeth, adding new crafting opportunities. Cook organs for sustenance, but with the risk of poisoning. Craft a mask from human skin to turn invisible to zombies, creating new stealth possibilities. 
@@ -19,14 +19,7 @@
   - Craft a mask from human skin.
   - Makes you undetectable by zombies.
 
-
-
-
-![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)
-
-
-
-
+ ---
 
 ## Installation
 1. **Download the Mod**: [Link to the mod download](https://github.com/nerchii/HumanMeat).
@@ -50,8 +43,8 @@
 - Made with Fabric 
 
 
-![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)
-
-
 
 @2024
+
+![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)![eye](human_eye.png)
+
