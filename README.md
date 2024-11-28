@@ -1,6 +1,6 @@
 # <img src="IMG_0092.PNG" alt="eye" width="15"/> Human Meat  <img src="IMG_0092.PNG" alt="eye" width="15"/>
 
-## Overview
+## Overview :star:
 **Human Meat** is a mod for Minecraft that adds new features, items, and gameplay mechanics to enhance the player's experience. Players who die drop items like organs and teeth, adding new crafting opportunities. Cook organs for sustenance, but with the risk of poisoning. Craft a mask from human skin to turn invisible to zombies, creating new stealth possibilities. 
 
 ---
